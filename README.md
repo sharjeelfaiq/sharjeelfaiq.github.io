@@ -204,14 +204,14 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Sharjeel Faiq',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'sharjeelfaiq',
+    x: 'sharjeelfaiq',
+    mastodon: 'sharjeelfaiq@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -221,14 +221,14 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'sharjeelfaiq',
+    dev: 'sharjeelfaiq',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.sharjeelfaiq.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'sharjeelfaiq816@gmail.com',
   },
   resume: {
     fileUrl:
@@ -489,7 +489,7 @@ You can customize the meta tags for SEO in `seo`.
 const CONFIG = {
   // ...
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Sharjeel Faiq',
     description: '',
     imageURL: '',
   },
@@ -515,9 +515,9 @@ You can link your social media services you're using, including LinkedIn, X, Mas
 const CONFIG = {
   // ...
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'sharjeelfaiq',
+    x: 'sharjeelfaiq',
+    mastodon: 'sharjeelfaiqarifszn@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',

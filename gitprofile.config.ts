@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Sharjeel Faiq',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'sharjeelfaiq',
     x: 'arif_szn',
     mastodon: 'sharjeelfaiq@mastodon.social',
     researchGate: '',
@@ -76,7 +76,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.sharjeelfaiq.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'sharjeelfaiq816@gmail.com',
   },
   resume: {
     fileUrl:
