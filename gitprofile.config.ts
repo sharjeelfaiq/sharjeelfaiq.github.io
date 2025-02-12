@@ -58,7 +58,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'sharjeelfaiq',
-    x: 'arif_szn',
+    x: 'sharjeelfaiq',
     mastodon: 'sharjeelfaiq@mastodon.social',
     researchGate: '',
     facebook: '',
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1hgPHsIDe768YQ86cz12BHomMa6vv47xw/view', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
